@@ -1,4 +1,4 @@
-# Echo (formerly OSC Proximity Chat App)
+# Echo (formerly OSC Proximity Chat App) (TEST FOR SONAR)
 
 ![banner](/client/assets/images/github/Echo_banner_small2.png)
 
